@@ -1,0 +1,11 @@
+Your name:
+- Evan Hernandez
+
+    A link to your repl. Instructions below:
+On the left hand side you should see the “Files” section. Click the three dots to the right of the filename to open the drop-down menu. 
+Click the copy link option and paste it in the word document.
+- https://replit.com/@flipper200/lab02#index.php
+
+Answer to this question: What did you find challenging on this assignment?
+- I found trying to remember how to name variables and call them to be the most challenging part of the assignment.
+

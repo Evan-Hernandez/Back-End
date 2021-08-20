@@ -1,0 +1,34 @@
+html {
+  background-color: darkslategrey;
+  color: rgb(252, 158, 197);
+}
+p {
+  color: blanchedalmond;
+  border-style: solid;
+  border-color: blanchedalmond;
+  width: 70%;
+  padding: 10px;
+  margin: 20px;
+}
+table {
+  border-color: blanchedalmond;
+  border-collapse: collapse;
+  width: 70%;
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+}
+.form-wrapper {
+  margin: 20px;
+  padding: 5px;
+}
+.form-name {
+  padding-bottom: 10px;
+}
+.form-email {
+  padding-bottom: 10px;
+}
+.form-submit {
+  padding-top: 3px;
+  margin-left: 42px;
+}

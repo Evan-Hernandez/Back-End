@@ -1,0 +1,6 @@
+1.  Evan Hernandez
+
+2.  https://replit.com/@flipper200/lab07#main.sql
+
+3.  Answer to this question: What did you find challenging on this assignment?
+    I found the most challenging part to be using the 'where' command, especially when trying to join both tables.
